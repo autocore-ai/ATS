@@ -7,3 +7,6 @@
 [submodule "report"]
 	path = report
 	url = https://github.com/autocore-ai/ats-report.git
+[submodule "src"]
+	path = src
+	url = https://github.com/autocore-ai/ats-script.git
