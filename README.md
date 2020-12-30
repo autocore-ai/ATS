@@ -8,9 +8,9 @@ Automated Test System for ROS2 version Autoware (Autoware architecture proposal 
 
 # Get start
 
-[Installation instructions](src/docs/install.md)
+[Installation instructions](https://github.com/autocore-ai/ats-script/blob/main/docs/install.md)
 
-[How to use](src/README.md)
+[How to use](https://github.com/autocore-ai/ats-script/blob/main/README.md)
 
 # Docker-based framework
 Target image combination for testing
