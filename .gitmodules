@@ -1,9 +1,15 @@
+[submodule "images/data"]
+	path = images/data
+	url = https://github.com/autocore-ai/ats-img-data.git
 [submodule "images/env"]
 	path = images/env
 	url = https://github.com/autocore-ai/ats-img-env.git
 [submodule "images/exe"]
 	path = images/exe
 	url = https://github.com/autocore-ai/ats-img-exe.git
+[submodule "images/ros1"]
+	path = images/ros1
+	url = https://github.com/autocore-ai/ats-img-ros1.git
 [submodule "report"]
 	path = report
 	url = https://github.com/autocore-ai/ats-report.git
